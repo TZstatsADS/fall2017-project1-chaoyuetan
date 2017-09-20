@@ -26,9 +26,11 @@ proj/
 
 Please see each subfolder for a README file.
 
-#Introduction
 
-##What does my project do?
+
+Introduction
+
+What does my project do?
 
 - There have been nearly a dozen one-term presidents who ran for second terms but were denied by voters, but only three one term presidents since World War II. The most recent one term president who lost his re-election bid was George H.W. Bush, a Republican who lost to Democrat Bill Clinton in 1992.
 
@@ -36,7 +38,7 @@ Please see each subfolder for a README file.
 
 - According to my result, I found there are some similarity between Trump's and other one-term presidents' speeches.
 
-##Outline structure of my code
+Outline structure of my code
 
 - First, checked libraries needed to be installed and the R notebook environmental settings.
 
@@ -46,7 +48,7 @@ Please see each subfolder for a README file.
 
 - Last, conducted emotion analysis, classification and visualization.
 
-##How to run my code
+How to run my code
 
 - Be sure to install all the libraries in the right version and check if it's the right version of R
 
